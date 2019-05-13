@@ -1,6 +1,10 @@
 # DlpBpcResourse DlpBpc资源库
 Resources of dlp bpc 
 
+### 最新版
+版本号：v0.1.9 [下载](./src/pack/release.zip)
+
+### 增量包
 |版本号    |MD5                               |链接                                       |
 |:---      | ---                              | ---                                       |
 |v0.1.8    |ddae4c9f2785d5054ccd894936f7e9a9  |[下载](./src/v0.1.8/release.zip)           |
