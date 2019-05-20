@@ -8,6 +8,7 @@ Resources of dlp bpc
 
 |版本号    |MD5                               |链接                                       |
 |:---      | ---                              | ---                                       |
+|v0.1.13   |110b672cc357ad73c85ee256668676b5  |[下载](./src/v0.1.13/release.zip)          |
 |v0.1.12   |110b672cc357ad73c85ee256668676b5  |[下载](./src/v0.1.12/release.zip)          |
 |v0.1.11   |61cdeaa904b78e07137009a169be7fdb  |[下载](./src/v0.1.11/release.zip)          |
 |v0.1.10   |0a490ec9c6b45f5492cde4cee24572cd  |[下载](./src/v0.1.10/release.zip)          |
