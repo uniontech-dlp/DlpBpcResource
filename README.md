@@ -2,7 +2,7 @@
 Resources of dlp bpc 
 
 ### 完整版
-版本号：**v0.1.14**  [下载](./src/pack/releaseV0.1.14.zip)   MD5:b94d4d56a030d33cf1f3378354ad175a
+版本号：**v0.1.18**  [下载](./src/pack/releaseV0.1.18.rar)   MD5:766b888f5188ffdc2c52b644d25b9674
 
 ### 增量包    
 
